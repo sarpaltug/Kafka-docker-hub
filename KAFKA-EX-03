@@ -1,0 +1,44 @@
+# Kafka 03 Homework
+
+## Project Description
+This project is the third homework assignment for the Kafka course.  
+It demonstrates the basic usage of **Apache Kafka** with Java and Maven, focusing on producer–consumer architecture and message streaming.
+
+---
+
+## Features
+- Java project built with **Maven**
+- Implementation of a **Kafka Producer** to send messages
+- Implementation of a **Kafka Consumer** to read messages
+- Configurations for topic creation, serialization, and message handling
+- Docker usage for running Kafka locally
+
+---
+
+## Technologies Used
+- **Java 17**
+- **Apache Kafka**
+- **Maven**
+- **Docker & Docker Compose**
+
+---
+
+## 📂 Project Structure
+kafka-03-homework/
+│── src/
+│   └── main/java/com/example/kafka/
+│       ├── ProducerApp.java
+│       ├── ConsumerApp.java
+│       └── …
+│── pom.xml
+└── README.md
+
+
+
+
+
+
+
+
+
+
